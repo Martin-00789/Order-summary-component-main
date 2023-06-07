@@ -20,27 +20,9 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
-
-![](./screenshot.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://github.com/CodinGitHub/Challenge-8-order-summary-component-main)
-- Live Site URL: [Add live site URL here](https://challenge-8-order-summary-component-main.vercel.app/)
-
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
-
-## Author
-
-- Website - [Add your name here](https://coding-tube.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/CodinGitHub)
-- Twitter - [@yourusername](https://www.twitter.com/CodingTube)
